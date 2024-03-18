@@ -5,7 +5,7 @@
 
 - 🎓 I have an MA in Spanish from the University of Glasgow, graduating with a 1st Class Honours with Distinction.
 
-- 👩🏻‍🏫 I’m currently training to become a Data Engineer.
+- 👩🏻‍🏫 I’m currently working as a Junior Data Engineer.
 
 <hr>
 
