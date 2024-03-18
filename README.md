@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani</h1>
-<h3 align="center">I'm a Junior Software Developer from London</h3>
+<h3 align="center">I'm a Junior Data Engineer from London</h3>
 
 - 👩🏻‍💻 I have a Diploma in Full Stack Software Development from Code Institute, graduating with a Merit.
 
